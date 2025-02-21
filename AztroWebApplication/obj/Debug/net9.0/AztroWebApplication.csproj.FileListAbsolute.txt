@@ -1,0 +1,81 @@
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\obj\Debug\net9.0\AztroWebApplication.csproj.AssemblyReference.cache
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\obj\Debug\net9.0\AztroWebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\obj\Debug\net9.0\AztroWebApplication.AssemblyInfoInputs.cache
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\obj\Debug\net9.0\AztroWebApplication.AssemblyInfo.cs
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\obj\Debug\net9.0\AztroWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\obj\Debug\net9.0\AztroWebApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\obj\Debug\net9.0\AztroWebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\bin\Debug\net9.0\appsettings.json
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\bin\Debug\net9.0\AztroWebApplication.staticwebassets.endpoints.json
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\bin\Debug\net9.0\AztroWebApplication.exe
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\bin\Debug\net9.0\AztroWebApplication.deps.json
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\bin\Debug\net9.0\AztroWebApplication.runtimeconfig.json
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\bin\Debug\net9.0\AztroWebApplication.dll
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\bin\Debug\net9.0\AztroWebApplication.pdb
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\bin\Debug\net9.0\Npgsql.dll
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\obj\Debug\net9.0\scopedcss\bundle\AztroWebApplication.styles.css
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\obj\Debug\net9.0\staticwebassets\msbuild.AztroWebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\obj\Debug\net9.0\staticwebassets\msbuild.AztroWebApplication.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\obj\Debug\net9.0\staticwebassets\msbuild.build.AztroWebApplication.props
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.AztroWebApplication.props
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.AztroWebApplication.props
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\obj\Debug\net9.0\AztroWeb.83F91C41.Up2Date
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\obj\Debug\net9.0\AztroWebApplication.dll
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\obj\Debug\net9.0\refint\AztroWebApplication.dll
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\obj\Debug\net9.0\AztroWebApplication.pdb
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\obj\Debug\net9.0\AztroWebApplication.genruntimeconfig.cache
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\obj\Debug\net9.0\ref\AztroWebApplication.dll
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\bin\Debug\net9.0\DotNetEnv.dll
+C:\Users\LikeMetric\Desktop\C#\AztroWebApplication\bin\Debug\net9.0\Sprache.dll
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\bin\Debug\net9.0\appsettings.json
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\bin\Debug\net9.0\AztroWebApplication.staticwebassets.endpoints.json
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\bin\Debug\net9.0\AztroWebApplication.exe
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\bin\Debug\net9.0\AztroWebApplication.deps.json
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\bin\Debug\net9.0\AztroWebApplication.runtimeconfig.json
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\bin\Debug\net9.0\AztroWebApplication.dll
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\bin\Debug\net9.0\AztroWebApplication.pdb
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\bin\Debug\net9.0\DotNetEnv.dll
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\bin\Debug\net9.0\Npgsql.dll
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\bin\Debug\net9.0\Sprache.dll
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\obj\Debug\net9.0\AztroWebApplication.csproj.AssemblyReference.cache
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\obj\Debug\net9.0\AztroWebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\obj\Debug\net9.0\AztroWebApplication.AssemblyInfoInputs.cache
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\obj\Debug\net9.0\AztroWebApplication.AssemblyInfo.cs
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\obj\Debug\net9.0\AztroWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\obj\Debug\net9.0\AztroWebApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\obj\Debug\net9.0\AztroWebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\obj\Debug\net9.0\AztroWebApplication.sourcelink.json
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\obj\Debug\net9.0\scopedcss\bundle\AztroWebApplication.styles.css
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\obj\Debug\net9.0\staticwebassets\msbuild.AztroWebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\obj\Debug\net9.0\staticwebassets\msbuild.AztroWebApplication.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\obj\Debug\net9.0\staticwebassets\msbuild.build.AztroWebApplication.props
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.AztroWebApplication.props
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.AztroWebApplication.props
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\obj\Debug\net9.0\AztroWeb.83F91C41.Up2Date
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\obj\Debug\net9.0\AztroWebApplication.dll
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\obj\Debug\net9.0\refint\AztroWebApplication.dll
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\obj\Debug\net9.0\AztroWebApplication.pdb
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\obj\Debug\net9.0\AztroWebApplication.genruntimeconfig.cache
+C:\Users\LikeMetric\Documents\PROFUNDIZACION NODO\TASKS\AztroWebApplication\obj\Debug\net9.0\ref\AztroWebApplication.dll
