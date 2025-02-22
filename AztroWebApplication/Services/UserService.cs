@@ -30,7 +30,7 @@ namespace AztroWebApplication.Services
 
     public async Task<User?> CreateUser(User user)
     {
-      if (user.Age < 18 || user.Age > 80)
+      if (user.age < 18 || user.age > 80)
       {
         return null;
       }
@@ -49,7 +49,7 @@ namespace AztroWebApplication.Services
       {
         return new NotFoundObjectResult(new ErrorResponse { Message = "User not found", StatusCode = "404" });
       }
-      if (user.Age < 18 || user.Age > 80)
+      if (user.age < 18 || user.age > 80)
       {
         return new BadRequestObjectResult("Age must be between 18 and 80 years.");
       }

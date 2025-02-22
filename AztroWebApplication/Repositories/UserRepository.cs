@@ -19,34 +19,34 @@ namespace AztroWebApplication.Data
 
     public async Task<List<User>> GetAllUsers()
     {
-      return await db.Users.ToListAsync();
+      return await db.User.ToListAsync();
     }
 
     public async Task<User> GetUserById(int id)
     {
-      return await db.Users.FirstOrDefaultAsync(u => u.Id == id) ?? throw new KeyNotFoundException($"User with id {id} not found.");
+      return await db.User.FirstOrDefaultAsync(u => u.id == id) ?? throw new KeyNotFoundException($"User with id {id} not found.");
     }
 
     public async Task<User> CreateUser(User user)
     {
-      db.Users.Add(user);
+      db.User.Add(user);
       await db.SaveChangesAsync();
       return user;
     }
 
     public async Task<User?> UpdateUserById(int id, User user)
     {
-      var existingUser = await db.Users.FindAsync(id);
+      var existingUser = await db.User.FindAsync(id);
       if (existingUser == null)
       {
         return null;
       }
 
-      existingUser.Name = user.Name;
-      existingUser.Email = user.Email;
-      existingUser.Age = user.Age;
+      existingUser.name = user.name;
+      existingUser.email = user.email;
+      existingUser.age = user.age;
 
-      db.Users.Update(existingUser);
+      db.User.Update(existingUser);
       await db.SaveChangesAsync();
 
       return existingUser;
@@ -54,13 +54,13 @@ namespace AztroWebApplication.Data
 
     public async Task<User?> DeleteUserById(int id)
     {
-      var user = await db.Users.FindAsync(id);
+      var user = await db.User.FindAsync(id);
       if (user == null)
       {
         return null;
       }
 
-      db.Users.Remove(user);
+      db.User.Remove(user);
       await db.SaveChangesAsync();
 
       return user;

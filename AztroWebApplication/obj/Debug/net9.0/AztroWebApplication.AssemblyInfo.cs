@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AztroWebApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b670ef32dd9d7b2b8868dcc428b00c59b93f427")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3c4ee5e203653312201357b161c747c61837a80")]
 [assembly: System.Reflection.AssemblyProductAttribute("AztroWebApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AztroWebApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
